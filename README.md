@@ -9,7 +9,7 @@ Some directories may be a little messy or incomplete. Organisation of my work is
 ### Year 1
 - [SC1003](https://github.com/jdengoh/NTU-CS/tree/main/SC1003) - Intro to Computational Thinking and Programming
 - [SC1007](https://github.com/jdengoh/NTU-CS/tree/main/SC1007) - Data Stucture & Algorithms
-- [SC1015](to be added) - Introduction to Data Science and AI
+- [SC1015](https://github.com/jdengoh/NTU-CS/tree/main/SC1015) - Introduction to Data Science and AI
 - [SC1015](https://github.com/jdengoh/Titanic-Analysis) - Group Project
 
 ### Year 2
