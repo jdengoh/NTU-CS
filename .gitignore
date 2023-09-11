@@ -1,8 +1,8 @@
 ##############################
 ## Visual Studio Code
 ##############################
-**/*.vscode/
-**/*.code-workspace
+.vscode/
+.code-workspace
 
 ##############################
 ## Maven
@@ -107,12 +107,12 @@ nb-configuration.xml
 *.dylib
 
 # Executables
-**/*.exe
-**/*.out
-**/*.app
-**/*.i*86
-**/*.x86_64
-**/*.hexg
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
 
 # Debug files
 *.dSYM/
@@ -224,7 +224,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-**/*.ipynb_checkpoints
+.ipynb_checkpoints
 
 # IPython
 profile_default/
