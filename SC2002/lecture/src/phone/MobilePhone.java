@@ -8,9 +8,10 @@ public class MobilePhone {
 	public static final double MAX_SCREEN_SIZE = 8;
 	
 	// instance variable
-	private int num;
+
+	protected int num; //protected variable
 	private String owner;
-	private String color;
+	private String color; //protected variable;
 	private double screenSize;
 	private App app;
 	
@@ -111,7 +112,7 @@ public class MobilePhone {
 	
 	public void setSize(double screenSize) {
 		if (screenSize > MAX_SCREEN_SIZE) {
-			this.screenSize = MAX_SCREEN_SIZE;
+			this.screenSize = IntPhone.MAX_SCREEN_SIZE;
 		}
 		else {
 			this.screenSize = screenSize;
