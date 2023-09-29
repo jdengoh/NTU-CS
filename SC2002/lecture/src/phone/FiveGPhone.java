@@ -2,8 +2,7 @@ package phone;
 
 import java.util.ArrayList;
 
-// inheritence
-public class FiveGPhone extends MobilePhone{
+public class FiveGPhone extends MobilePhone implements IntPhone{
 	
 	private double dataRate;
 	private double credit;
@@ -14,10 +13,11 @@ public class FiveGPhone extends MobilePhone{
 		credit = 0;
 	}
 	
-	public FiveGPhone(String owner, String color, double screenSize, int num, App app, ArrayList<App> appStore, double dataRate, double credit) {
-		super(owner, color, screenSize, num, app, appStore);
-		this.dataRate = dataRate;
-		this.credit = credit;
+	public FiveGPhone(String owner, String color, double screenSize, int num) {
+//		super(owner, color, screenSize, num, app, appStore);
+		super(owner, color, screenSize, num);
+//		this.dataRate = dataRate;
+//		this.credit = credit;
 	}
 	
 	public double getDataRate() {

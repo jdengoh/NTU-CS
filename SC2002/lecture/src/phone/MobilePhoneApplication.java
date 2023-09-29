@@ -21,11 +21,11 @@ public class MobilePhoneApplication {
 		appStore.add(app2);
 		appStore.add(app3);
 		
-		MobilePhone johnPhone = new MobilePhone("John", "Red", 7.0, 0, app, appStore);
+		MobilePhone johnPhone = new MobilePhone("John", "Red", 7.0, 0);
 		//yourPhone.printContent();
 		
-		johnPhone.getApp().print();
-		johnPhone.getAppStore().get(2).print();
+//		johnPhone.getApp().print();
+//		johnPhone.getAppStore().get(2).print();
 		
 		//print current owner
 		System.out.println("the current owner is " + myPhone.getOwner());

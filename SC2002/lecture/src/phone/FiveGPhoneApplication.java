@@ -18,7 +18,7 @@ public class FiveGPhoneApplication {
 		myPhone.sendSMS("tom", "hi");
 		myPhone.setSize(10.0);
 		
-		FiveGPhone johnPhone = new FiveGPhone("John", "white", 7.0, 0, app2, appStore, 0.1, 10.0);
+		FiveGPhone johnPhone = new FiveGPhone("John", "white", 7.0, 0);
 		System.out.println("the owner is " + johnPhone.getOwner());
 
 		johnPhone.sendSMS("Jane");
