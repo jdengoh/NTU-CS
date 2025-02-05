@@ -15,7 +15,7 @@ Some directories may be a little messy or incomplete. Organisation of my work is
 ### Year 2
 - [SC2002](https://github.com/jdengoh/NTU-CS/tree/main/SC2002) - Object Oriented Design & Programming
 - [SC2005](https://github.com/jdengoh/NTU-CS/tree/main/SC2005) - Operating Systems
-- [SC2006](https://github.com/jdengoh/SC2006-project)
+- [SC2006](https://github.com/jdengoh/SC2006-project) - Software Engineering
 - [SC2008](https://github.com/jdengoh/NTU-CS/tree/main/SC2008) - Computer Network
 - [SC3000](https://github.com/jdengoh/SC3000-AI) - Artificial Intelligence
 
