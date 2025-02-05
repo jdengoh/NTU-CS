@@ -13,6 +13,13 @@ Some directories may be a little messy or incomplete. Organisation of my work is
 - [SC1015](https://github.com/jdengoh/Titanic-Analysis) - Group Project
 
 ### Year 2
-- SC2002
-   
+- [SC2002](https://github.com/jdengoh/NTU-CS/tree/main/SC2002) - Object Oriented Design & Programming
+- [SC2005](https://github.com/jdengoh/NTU-CS/tree/main/SC2005) - Operating Systems
+- [SC2006](https://github.com/jdengoh/SC2006-project)
+- [SC2008](https://github.com/jdengoh/NTU-CS/tree/main/SC2008) - Computer Network
+- [SC3000](https://github.com/jdengoh/SC3000-AI) - Artificial Intelligence
+
+### Year 3
+- [SC2079](https://github.com/jdengoh/MDP_rpi) - MDP (my role was RPI and image-rec)
+- [SC4002](https://github.com/jdengoh/SC4002-NLP) - Natural Language Processing Project
 
